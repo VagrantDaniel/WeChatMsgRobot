@@ -2,150 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43c7ec47-26ce-4b98-9519-828125bdf89c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/example/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/lib/createHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/bl/test/indexOf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/bl/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/inherits/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/inherits/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/inherits/inherits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/inherits/inherits_browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/inherits/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/GOVERNANCE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/errors-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/errors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/experimentalWarning.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/async_iterator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/buffer_list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/pipeline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/stream-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/lib/internal/streams/stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/readable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/readable-stream/readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/safe-buffer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/safe-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/safe-buffer/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/safe-buffer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/string_decoder/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/string_decoder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/string_decoder/lib/string_decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/string_decoder/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/util-deprecate/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/util-deprecate/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/util-deprecate/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/util-deprecate/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/util-deprecate/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/node_modules/util-deprecate/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket_webhook/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/WeChatController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/example/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/lib/koa-bitbucket-webhook-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koa-bitbucket-webhook-handler/src/koa-bitbucket-webhook-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/BitbucketMessage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/JiraMessage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/YApiMessage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route-decorators/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route-decorators/src/decorator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduler/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/data/bitbucketInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/data/jiraInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/data/weeklyInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/data/yapiInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/WechatAPI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/redis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/webhookHander.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/lib/api_appchat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/lib/api_common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/lib/api_department.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/lib/api_message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/lib/api_user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/lib/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/bignumber.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/bignumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/bignumber.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/bignumber.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/bignumber.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/doc/API.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/bignumber.js/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/.coveralls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/src/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/src/inspector-log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/inherits/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/inherits/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/inherits/inherits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/inherits/inherits_browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/inherits/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/json-bigint/test/bigint-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/json-bigint/test/strict-option-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/json-bigint/test/string-option-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/punycode/LICENSE-MIT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/punycode/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/punycode/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/punycode/punycode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/License.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/decode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/encode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/test/common-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/node_modules/querystring/test/tap-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat_enterprise_api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/redis.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/redis.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,59 +17,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/store/redis.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/provider/BitbucketMessage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4278">
-              <caret line="240" column="11" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-                <element signature="e#420#1664#0" />
-                <element signature="e#1817#3534#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wechat_enterprise_api/lib/api_appchat.js">
+        <entry file="file://$PROJECT_DIR$/static/data/yapiInfo.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wechat_enterprise_api/lib/api_common.js">
+        <entry file="file://$PROJECT_DIR$/static/data/weeklyInfo.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/store/redis.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="276">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/robotmanage/README.md">
+        <entry file="file://$PROJECT_DIR$/static/data/jiraInfo.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/data/bitbucketInfo.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="565">
+                <caret line="109" selection-start-line="109" selection-end-line="109" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotmanage/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotmanage/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -225,36 +78,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/robotmanage/src/Robot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1426">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="23">
+              <caret line="76" column="12" lean-forward="true" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-                <element signature="e#119#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -285,8 +116,9 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/scheduler/index.js" />
-        <option value="$PROJECT_DIR$/store/redis.js" />
         <option value="$PROJECT_DIR$/robotmanage/src/Robot.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/store/redis.js" />
       </list>
     </option>
   </component>
@@ -338,6 +170,17 @@
               <item name="WeChatMsgRobot" type="b2602c69:ProjectViewProjectNode" />
               <item name="WeChatMsgRobot" type="462c0819:PsiDirectoryNode" />
               <item name="scheduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeChatMsgRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeChatMsgRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeChatMsgRobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeChatMsgRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WeChatMsgRobot" type="b2602c69:ProjectViewProjectNode" />
@@ -400,12 +243,27 @@
       <updated>1573460629459</updated>
       <workItem from="1573460630661" duration="2203000" />
       <workItem from="1573464026406" duration="3666000" />
-      <workItem from="1573468179312" duration="65000" />
+      <workItem from="1573468179312" duration="354000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.0">
+      <created>1573468361507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573468361507</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1.0">
+      <created>1573468457704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573468457704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5934000" />
+    <option name="totallyTimeSpent" value="6223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -446,6 +304,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bitbucket_webhook/app.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -465,47 +328,11 @@
     <entry file="file://$PROJECT_DIR$/service/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/data/bitbucketInfo.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/data/jiraInfo.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/data/weeklyInfo.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/data/yapiInfo.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2103">
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store/WechatAPI.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/store/webhookHander.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -534,13 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store/redis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -602,6 +422,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/yapiInfo.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/weeklyInfo.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/jiraInfo.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/data/bitbucketInfo.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="565">
+            <caret line="109" selection-start-line="109" selection-end-line="109" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotmanage/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotmanage/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/robotmanage/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -613,11 +477,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/robotmanage/src/Robot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1426">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="23">
+          <caret line="76" column="12" lean-forward="true" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/redis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>

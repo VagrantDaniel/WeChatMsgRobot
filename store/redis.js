@@ -2,7 +2,7 @@ import Redis from 'ioredis';
 
 const redis = new Redis({
   port: '6379',
-  host: '192.168.214.134',
+  host: '',
   db: 1,
   password: '123456',
 })
@@ -10,7 +10,7 @@ const redis = new Redis({
 
 const pub = new Redis({
   port: '6379',
-  host: '192.168.214.134',
+  host: '',
   db: 1,
   password: '123456',
 });
