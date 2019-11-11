@@ -1,0 +1,44 @@
+{
+  "name": "wechatmsgrobot",
+  "version": "1.0.0",
+  "description": "消息推送机器人",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnPure/WeChatMsgRobot.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "OnPure <inception00@163.com> (http://www.onpure.top/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OnPure/WeChatMsgRobot/issues"
+  },
+  "homepage": "https://github.com/OnPure/WeChatMsgRobot#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015-node4": "^2.1.1",
+    "fs": "0.0.1-security",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "moment": "^2.24.0",
+    "node-schedule": "^1.3.2",
+    "route-decorators": "^0.2.2",
+    "stream": "0.0.2",
+    "util": "^0.12.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-decorators": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "ioredis": "^4.10.0",
+    "koa-convert": "^1.2.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bitbucket_webhook",
+  "version": "1.0.3",
+  "email": "inception00@163.com",
+  "description": "用于对Bitbucket Cloud Event的返回响应",
+  "author": "OnPure",
+  "private": false,
+  "main": "app.js",
+  "license": "ISC",
+  "keywords": [
+    "bitbucket webhook",
+    "webohook cloud",
+    "event payload"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bl": "^3.0.0"
+  }
+}
